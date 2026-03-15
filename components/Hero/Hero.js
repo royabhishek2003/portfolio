@@ -97,7 +97,7 @@ const Hero = () => {
           <Profiles />
         </div>
         <div className="staggered-reveal pt-4">
-          <Button href={`#${MENULINKS[4].ref}`} classes="link" type="primary">
+          <Button href={`#${MENULINKS[7].ref}`} classes="link" type="primary">
             Let&apos;s Talk
           </Button>
         </div>
