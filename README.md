@@ -1,42 +1,66 @@
-# devfolio
+# Portfolio | Abhishek Kumar
 
-<a href="https://shubhporwal.me">
-  <img alt="devfolio" src="./public/preview.png" />
-</a>
+A pragmatic Frontend Engineer dedicated to crafting aesthetic and modern web applications that captivate and engage users.
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
 
-👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
+## 👨‍💻 About Me
 
-### ✨ [Live Demo](http://www.shubhporwal.me/)
+Hi, I'm Abhishek! I'm a passionate Frontend and React Native Engineer. I build things for the web and specialize in creating end-to-end scalable applications with strong architecture, seamless API integration, and stunning user interfaces.
 
-## Getting Started
+## 🛠️ Technologies & Tools
 
-In the project directory, you can run:
+- **Languages:** C, C++, JavaScript, Java, Python
+- **Libraries & Frameworks:** HTML, CSS, Node.js, React, Redux, Next.js, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other Tools:** Git, GitHub
+- **Animation & UI:** Framer Motion, GSAP, Lottie Web, Vanilla Tilt
 
-#### `bun install`
+## 🚀 Projects Highlights
 
-#### `bun dev`
+- **[CourseHub](https://course-hub-frontend-six.vercel.app/):** Get hired through DMs not resumes 🤝 *(JavaScript, React, Node.js, Redux)*
+- **[Expense Merge](https://github.com/royabhishek2003/expense-react-client):** Manage your expenses easily 💸 *(TypeScript, React)*
+- **[Grapevine Round1 AI](https://play.google.com/store/apps/details?id=com.app.gvine):** Ace your round one in 9 minutes 💼 *(TypeScript, React, React Query)*
+- **[React Native Directory](https://www.raycast.com/shubh_porwal/react-native-directory):** Search & filter React Native libraries via Raycast ⌨️ *(TypeScript, React, Expo, Raycast)*
 
-Runs the app in the development mode.\
-Open [`http://localhost:3000`](http://localhost:3000) to view it in the browser.
+## 🏆 Achievements
 
-## Design
+- **National Hackathon Winner:** Winner of the national-level hackathon 'HACKADHYAAY' as part of a 3-member team.
+- **Competitive Programming:** Solved 500+ LeetCode problems and achieved an impressive rating of 1600.
 
-You can always draw inspiration from the design, and no, you don't have to give me credits for that.
+## 🏃‍♂️ Running the Project Locally
 
-## Forking
+To run this Next.js project on your local machine:
 
-When people ask me whether they may use the code for their own website, I typically say yes as long as they provide proper attribution.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/royabhishek2003/devfolio-main.git
+   cd devfolio-main/devfolio-main
+   ```
 
-Every time I learn that someone has duplicated my website without giving me credit, it saddens me. This version of my website took a significant amount of work to construct, and I'm pleased of it! All I ask is that you empathize with my situation and leave the footer unaltered.
+2. **Install dependencies:**
+   ```bash
+   yarn install
+   # or
+   npm install
+   ```
 
-## Star History
+3. **Run the development server:**
+   ```bash
+   yarn dev
+   # or
+   npm run dev
+   ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shubh73/devfolio&type=Date)](https://www.star-history.com/#shubh73/devfolio&Date)
+4. **Open your browser:**
+   Navigate to [http://localhost:3000](http://localhost:3000) to view the project.
+
+## 📫 Connect with Me
+
+- **Email:** [royabhishek8483@gmail.com](mailto:royabhishek8483@gmail.com)
+- **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek26045/)
+- **Twitter / X:** [@RoyAbhi78245890](https://x.com/RoyAbhi78245890)
+- **GitHub:** [@royabhishek2003](https://github.com/royabhishek2003)
+
+---
+
+> *"I create aesthetic and modern apps"* 
