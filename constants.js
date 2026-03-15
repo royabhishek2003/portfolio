@@ -2,12 +2,12 @@ export const METADATA = {
   author: "Abhishek Kumar",
   title: "Portfolio | Abhishek Kumar",
   description:
-    "Abhishek Kumar is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Abhishek Kumar is a passionate Full-Stack Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@RoyAbhi78245890",
   keywords: [
     "Abhishek Kumar",
-    "Frontend Engineer",
+    "Full-Stack Engineer",
     "React Native Engineer",
     "Software Engineer",
     "Portfolio",
@@ -56,7 +56,7 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Engineer",
+  "A pragmatic Full-Stack Engineer",
   "I build things for the web",
   "I create aesthetic and modern apps",
 ];

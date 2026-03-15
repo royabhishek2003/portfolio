@@ -1,11 +1,11 @@
 # Portfolio | Abhishek Kumar
 
-A pragmatic Frontend Engineer dedicated to crafting aesthetic and modern web applications that captivate and engage users.
+A pragmatic Full-Stack Engineer dedicated to crafting aesthetic and modern web applications that captivate and engage users.
 
 
 ## 👨‍💻 About Me
 
-Hi, I'm Abhishek! I'm a passionate Frontend and React Native Engineer. I build things for the web and specialize in creating end-to-end scalable applications with strong architecture, seamless API integration, and stunning user interfaces.
+Hi, I'm Abhishek! I'm a passionate Full-Stack and React Native Engineer. I build things for the web and specialize in creating end-to-end scalable applications with strong architecture, seamless API integration, and stunning user interfaces.
 
 ## 🛠️ Technologies & Tools
 
