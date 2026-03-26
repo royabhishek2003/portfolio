@@ -51,8 +51,14 @@ const About1 = ({ clientHeight }) => {
           clientHeight > 650 ? "pt-28 pb-16" : "pt-80 pb-72"
         } section-container`}
       >
-        {/* Profile Picture */}
-        <div className="flex justify-center mb-10">
+        {/* About Section Header */}
+        <div className="flex flex-col items-center mb-10">
+          <div className="flex items-center gap-4 mb-4">
+            <span className="block w-12 h-[2px] bg-gradient-to-r from-transparent to-purple-500"></span>
+            <p className="uppercase tracking-[0.3em] text-sm font-semibold text-purple-400">ABOUT</p>
+            <span className="block w-12 h-[2px] bg-gradient-to-l from-transparent to-purple-500"></span>
+          </div>
+          <h2 className="text-5xl md:text-6xl font-bold text-gradient w-fit mb-10">Who I Am</h2>
           <div
             className="relative rounded-xl overflow-hidden"
             style={{
