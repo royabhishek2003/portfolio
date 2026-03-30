@@ -25,7 +25,7 @@ Hi, I'm Abhishek! I'm a passionate Full-Stack and React Native Engineer. I build
 ## 🏆 Achievements
 
 - **National Hackathon Winner:** Winner of the national-level hackathon 'HACKADHYAAY' as part of a 3-member team.
-- **Competitive Programming:** Solved 500+ LeetCode problems and achieved an impressive rating of 1600.
+- **Competitive Programming:** Solved 600+ LeetCode problems and overall 700++ DSA problems, with a 1600+ rating in contests.
 
 ## 🏃‍♂️ Running the Project Locally
 
