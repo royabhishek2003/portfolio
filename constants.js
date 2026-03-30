@@ -183,7 +183,7 @@ export const ACHIEVEMENTS = [
   },
   {
     title: "Competitive Programming",
-    description: "Solved 600+ LeetCode problems and overall 700++ DSA problems, with a 1600+ rating in contests.",
+    description: "Solved 600+ problems on LeetCode and 700+ DSA problems overall, with a 1600+ contest rating on LeetCode through consistent participation.",
     url: "https://leetcode.com/u/roy_abhishek__/"
   }
 ];
