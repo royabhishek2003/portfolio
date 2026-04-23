@@ -26,6 +26,10 @@ const SKILL_NAMES = {
   git: "Git",
   cursor: "Cursor",
   sanity: "Sanity",
+  docker: "Docker",
+  aws: "AWS",
+  kubernetes: "K8s",
+  "github-actions": "GitHub Actions",
 };
 
 const SkillIcon = ({ skill }) => (
@@ -122,6 +126,16 @@ const Skills = () => {
               </h3>
               <div className="flex flex-wrap gap-6 transform-gpu">
                 {SKILLS.databases.map((skill) => (
+                  <SkillIcon key={skill} skill={skill} />
+                ))}
+              </div>
+            </div>
+            <div className="mr-16 xs:mr-20 mb-6 staggered-reveal">
+              <h3 className="uppercase tracking-widest text-gray-light-2 font-medium text-base mb-4">
+                DEVOPS
+              </h3>
+              <div className="flex flex-wrap gap-6 transform-gpu">
+                {SKILLS.devops.map((skill) => (
                   <SkillIcon key={skill} skill={skill} />
                 ))}
               </div>

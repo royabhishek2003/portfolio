@@ -98,7 +98,8 @@ export const SKILLS = {
     "tailwindcss",
   ],
   databases: ["mysql", "postgresql", "mongodb"],
-  other: ["git", "github"],
+  devops: ["docker", "kubernetes", "github-actions"],
+  other: ["git", "github", "aws"],
 };
 
 export const PROJECTS = [
