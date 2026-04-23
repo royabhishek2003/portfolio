@@ -1,36 +1,8 @@
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="k8sGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#326CE5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1A4D8E;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <g transform="translate(50, 50)">
-    <!-- Kubernetes helm wheel - professional design -->
-    <!-- Outer ring -->
-    <circle cx="0" cy="0" r="30" fill="none" stroke="url(#k8sGrad)" stroke-width="1.2" opacity="0.3"/>
-    <!-- Middle ring -->
-    <circle cx="0" cy="0" r="20" fill="none" stroke="url(#k8sGrad)" stroke-width="1.5" opacity="0.5"/>
-    <!-- Center hub -->
-    <circle cx="0" cy="0" r="7" fill="url(#k8sGrad)"/>
-    <!-- Six main spokes for helm -->
-    <!-- Top spoke -->
-    <line x1="0" y1="0" x2="0" y2="-28" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="0" cy="-28" r="5.5" fill="url(#k8sGrad)"/>
-    <!-- Top-right spoke -->
-    <line x1="0" y1="0" x2="24.2" y2="-14" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="24.2" cy="-14" r="5.5" fill="url(#k8sGrad)"/>
-    <!-- Bottom-right spoke -->
-    <line x1="0" y1="0" x2="24.2" y2="14" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="24.2" cy="14" r="5.5" fill="url(#k8sGrad)"/>
-    <!-- Bottom spoke -->
-    <line x1="0" y1="0" x2="0" y2="28" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="0" cy="28" r="5.5" fill="url(#k8sGrad)"/>
-    <!-- Bottom-left spoke -->
-    <line x1="0" y1="0" x2="-24.2" y2="14" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="-24.2" cy="14" r="5.5" fill="url(#k8sGrad)"/>
-    <!-- Top-left spoke -->
-    <line x1="0" y1="0" x2="-24.2" y2="-14" stroke="url(#k8sGrad)" stroke-width="2"/>
-    <circle cx="-24.2" cy="-14" r="5.5" fill="url(#k8sGrad)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 722 702">
+  <g fill="#326CE5">
+    <path d="M359.14 21.44c-8.89 0-17.2 4.41-22.15 11.79l-142.6 212.64a26.6 26.6 0 0 0-3.73 18.95l43.52 248.13a26.63 26.63 0 0 0 12.77 18.06l213.14 127.71a26.67 26.67 0 0 0 22.18 2.71l242.95-72.82a26.62 26.62 0 0 0 16.92-14.95l90.04-233.33a26.59 26.59 0 0 0-1.38-22.05L700.34 82.1a26.67 26.67 0 0 0-17.49-13.73L425.2 23.36a26.64 26.64 0 0 0-6.25-.75l-59.82-1.17z" transform="translate(-230 -20) scale(.9)"/>
+  </g>
+  <g fill="#fff">
+    <path d="M361 168c-5.6 0-10.15 4.55-10.15 10.15v17.6c-0.27 3.27-2.56 6.03-5.68 7.19-0.92 0.32-1.83 0.67-2.73 1.03-3.04 1.22-6.58 0.56-8.94-1.69L321 189.88a10.15 10.15 0 0 0-14.35 14.35l12.4 12.4c2.28 2.36 2.95 5.92 1.69 8.98a97.6 97.6 0 0 0-1.03 2.73c-1.16 3.12-3.92 5.41-7.19 5.68H295c-5.6 0-10.15 4.55-10.15 10.15s4.55 10.15 10.15 10.15h17.52c3.27 0.27 6.03 2.56 7.19 5.68.36.9.68 1.81 1.03 2.73 1.26 3.06.59 6.62-1.69 8.98l-12.4 12.4a10.15 10.15 0 0 0 14.35 14.35l12.4-12.4c2.36-2.28 5.92-2.95 8.98-1.69.92.36 1.83.7 2.73 1.03 3.12 1.16 5.41 3.92 5.68 7.19V310c0 5.6 4.55 10.15 10.15 10.15S371.15 315.6 371.15 310v-17.52c0.27-3.27 2.56-6.03 5.68-7.19.92-.33 1.81-.67 2.73-1.03 3.06-1.26 6.62-.59 8.98 1.69l12.4 12.4a10.15 10.15 0 0 0 14.35-14.35l-12.4-12.4c-2.28-2.36-2.95-5.92-1.69-8.98.36-.92.7-1.83 1.03-2.73 1.16-3.12 3.92-5.41 7.19-5.68H427c5.6 0 10.15-4.55 10.15-10.15S432.6 234 427 234h-17.6c-3.27-.27-6.03-2.56-7.19-5.68a97.6 97.6 0 0 0-1.03-2.73c-1.22-3.04-.56-6.58 1.69-8.94l12.4-12.4a10.15 10.15 0 0 0-14.35-14.35l-12.4 12.4c-2.36 2.28-5.9 2.95-8.94 1.69-.92-.36-1.81-.71-2.73-1.03-3.12-1.16-5.41-3.92-5.68-7.19v-17.6c0-5.6-4.55-10.15-10.15-10.15zm0 56.96a19.2 19.2 0 0 1 19.2 19.2 19.2 19.2 0 0 1-19.2 19.2 19.2 19.2 0 0 1-19.2-19.2 19.2 19.2 0 0 1 19.2-19.2z"/>
   </g>
 </svg>
