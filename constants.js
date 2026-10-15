@@ -85,21 +85,25 @@ export const SKILLS = {
     "c",
     "cpp",
     "javascript",
+    "typescript",
     "java",
     "python",
+    "postman",
   ],
   librariesAndFrameworks: [
     "html",
     "css",
     "nodejs",
+    "expressjs",
     "react",
     "redux",
     "nextjs",
     "tailwindcss",
   ],
   databases: ["mysql", "postgresql", "mongodb"],
-  devops: ["docker", "kubernetes", "github-actions"],
-  other: ["git", "github", "aws"],
+  devops: ["docker", "kubernetes", "github-actions", "cicd", "prometheus", "grafana"],
+  aiMl: ["llm", "langchain", "langgraph", "rag", "vector-database"],
+  other: ["git", "github", "aws", "system-design"],
 };
 
 export const PROJECTS = [
@@ -108,7 +112,7 @@ export const PROJECTS = [
     imageKey: "coursehub",
     description: "Get hired through DMs not resumes 🤝",
     gradient: ["#FF69B4", "#FFB6C1"], // hot pink to light pink (cherry blossom inspired)
-    url: "https://course-hub-frontend-six.vercel.app/",
+    url: "https://coursehub-frontend-rdtd.onrender.com",
     tech: ["javascript", "react", "nodejs", "redux"],
   },
   {
@@ -120,20 +124,20 @@ export const PROJECTS = [
     tech: ["typescript", "react"],
   },
   {
-    name: "Grapevine Round1 AI",
-    imageKey: "round1",
-    description: "Ace your round one in 9 minutes  💼",
-    gradient: ["#5D4037", "#8D6E63"], // dark brown to medium brown
-    url: "https://play.google.com/store/apps/details?id=com.app.gvine",
-    tech: ["typescript", "react", "react-query"],
+    name: "AI Interview Agent",
+    imageKey: "ai-interview-agent",
+    description: "Practice mock interviews with AI intelligence 🤖",
+    gradient: ["#1A1A2E", "#16213E"], // deep navy to dark blue
+    url: "https://ai-interview-agent-1-pyik.onrender.com/",
+    tech: ["javascript", "react", "nodejs", "mongodb"],
   },
   {
-    name: "React Native Directory",
-    imageKey: "react-native-directory",
-    description: "Search & filter React Native libraries via Raycast ⌨️",
-    gradient: ["#000000", "#1A1A1A"], // pure black to dark gray
-    url: "https://www.raycast.com/shubh_porwal/react-native-directory",
-    tech: ["typescript", "react", "expo", "raycast"],
+    name: "Trello Clone (Taskify)",
+    imageKey: "taskify",
+    description: "Collaborate & manage projects with ease 📋",
+    gradient: ["#0EA5E9", "#D946EF"], // sky blue to fuchsia
+    url: "https://taskify-frontend-bqkq.onrender.com/",
+    tech: ["javascript", "react", "nodejs", "mongodb"],
   },
 ];
 

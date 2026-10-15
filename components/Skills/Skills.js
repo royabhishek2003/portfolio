@@ -9,8 +9,10 @@ const SKILL_NAMES = {
   html: "HTML5",
   css: "CSS3",
   javascript: "JavaScript",
+  typescript: "TypeScript",
   sass: "Sass",
   nodejs: "Node.js",
+  expressjs: "Express.js",
   vite: "Vite",
   figma: "Figma",
   expo: "Expo",
@@ -23,6 +25,7 @@ const SKILL_NAMES = {
   "chakra-ui": "Chakra UI",
   mysql: "MySQL",
   mongodb: "MongoDB",
+  postgresql: "PostgreSQL",
   git: "Git",
   cursor: "Cursor",
   sanity: "Sanity",
@@ -30,6 +33,17 @@ const SKILL_NAMES = {
   aws: "AWS",
   kubernetes: "K8s",
   "github-actions": "GitHub Actions",
+  postman: "Postman",
+  cicd: "CI/CD",
+  prometheus: "Prometheus",
+  grafana: "Grafana",
+  "system-design": "System Design",
+  github: "GitHub",
+  llm: "LLM",
+  langchain: "LangChain",
+  langgraph: "LangGraph",
+  rag: "RAG",
+  "vector-database": "Vector DB",
 };
 
 const SkillIcon = ({ skill }) => (
@@ -136,6 +150,16 @@ const Skills = () => {
               </h3>
               <div className="flex flex-wrap gap-6 transform-gpu">
                 {SKILLS.devops.map((skill) => (
+                  <SkillIcon key={skill} skill={skill} />
+                ))}
+              </div>
+            </div>
+            <div className="mr-16 xs:mr-20 mb-6 staggered-reveal">
+              <h3 className="uppercase tracking-widest text-gray-light-2 font-medium text-base mb-4">
+                AI / ML
+              </h3>
+              <div className="flex flex-wrap gap-6 transform-gpu">
+                {SKILLS.aiMl.map((skill) => (
                   <SkillIcon key={skill} skill={skill} />
                 ))}
               </div>

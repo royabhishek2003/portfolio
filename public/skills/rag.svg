@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="50" height="50">
+  <defs>
+    <linearGradient id="rag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#DB2777"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#rag)"/>
+  <!-- Document icon -->
+  <rect x="14" y="12" width="16" height="20" rx="2" fill="#fff" opacity="0.9"/>
+  <line x1="18" y1="18" x2="26" y2="18" stroke="#7C3AED" stroke-width="1.5"/>
+  <line x1="18" y1="22" x2="26" y2="22" stroke="#7C3AED" stroke-width="1.5"/>
+  <line x1="18" y1="26" x2="24" y2="26" stroke="#7C3AED" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <path d="M34 22 L40 22" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M38 18 L42 22 L38 26" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brain/AI icon -->
+  <circle cx="48" cy="22" r="8" fill="#fff" opacity="0.2"/>
+  <path d="M44 22 Q44 16 48 16 Q52 16 52 20 Q54 20 54 24 Q54 28 50 28 Q46 28 44 26 Z" fill="#fff" opacity="0.9"/>
+  <!-- Output -->
+  <rect x="14" y="40" width="36" height="12" rx="4" fill="#fff" opacity="0.2"/>
+  <text x="32" y="49" text-anchor="middle" fill="#fff" font-size="7" font-weight="bold" font-family="Arial,sans-serif">RAG</text>
+</svg>

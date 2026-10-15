@@ -1,7 +1,7 @@
 import coursehub from "../../public/projects/coursehub.webp";
 import expensemerge from "../../public/projects/expensemerge.webp";
-import round1 from "../../public/projects/round1.webp";
-import reactNativeDirectory from "../../public/projects/react-native-directory.webp";
+import aiInterviewAgent from "../../public/projects/ai-interview-agent.png";
+import taskify from "../../public/projects/taskify.png";
 import buywow from "../../public/projects/buywow.webp";
 import bot9 from "../../public/projects/bot9.webp";
 import dukaan from "../../public/projects/dukaan.webp";
@@ -13,8 +13,8 @@ import tesla from "../../public/projects/tesla.webp";
 export const PROJECT_IMAGES = {
   coursehub,
   expensemerge,
-  round1,
-  "react-native-directory": reactNativeDirectory,
+  "ai-interview-agent": aiInterviewAgent,
+  taskify,
   buywow,
   bot9,
   dukaan,

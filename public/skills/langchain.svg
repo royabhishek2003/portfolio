@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="50" height="50">
+  <defs>
+    <linearGradient id="lc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1C3C3C"/>
+      <stop offset="100%" stop-color="#2D6A4F"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#lc)"/>
+  <!-- Chain links -->
+  <circle cx="22" cy="22" r="7" fill="none" stroke="#40C057" stroke-width="2.5"/>
+  <circle cx="32" cy="32" r="7" fill="none" stroke="#40C057" stroke-width="2.5"/>
+  <circle cx="42" cy="42" r="7" fill="none" stroke="#40C057" stroke-width="2.5"/>
+  <!-- Connecting lines -->
+  <line x1="27" y1="27" x2="27" y2="27" stroke="#40C057" stroke-width="2"/>
+  <line x1="37" y1="37" x2="37" y2="37" stroke="#40C057" stroke-width="2"/>
+  <!-- Parrot icon simplified -->
+  <path d="M16 44 Q12 38 18 36 Q22 34 20 40 Z" fill="#69DB7C"/>
+  <text x="44" y="20" text-anchor="middle" fill="#69DB7C" font-size="7" font-weight="bold" font-family="Arial,sans-serif">🦜</text>
+</svg>
